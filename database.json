@@ -118,22 +118,6 @@
       "description": "Pariatur nihil animi eos doloremque laborum fugiat consequuntur iusto. Et tempore a enim.",
       "emergency": true,
       "dateCompleted": "Fri Apr 29 2022 21:24:29 GMT-0500 (Central Daylight Time)"
-    },
-    {
-      "id": 6
-    },
-    {
-      "id": 7
-    },
-    {
-      "id": 8
-    },
-    {
-      "userId": 2,
-      "description": "Try again maybe?",
-      "emergency": false,
-      "dateCompleted": "",
-      "id": 9
     }
   ],
   "employeeTickets": [
